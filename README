@@ -1,0 +1,10 @@
+# NetTaskProcessor
+
+## Overview
+Net Task Processor is a Python tool to automate network device configurations and discovery using the Nornir framework. It simplifies development tasking by creating a pluggable interface that allows reusable tasks to be executed in a standard format.
+
+## Features
+- **Inventory Management**: Load network device inventory from a CSV file.
+- **Task Execution**: Run network tasks such as configuration, discovery, and saving configurations.
+- **Filtering**: Apply filters to target specific devices.
+- **Result Handling**: Print or save task results.
