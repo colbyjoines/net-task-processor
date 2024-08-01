@@ -1,3 +1,3 @@
-[submodule "nornir-mongo/nornir-mongo"]
-	path = nornir-mongo/nornir-mongo
+[submodule "nornir-mongo"]
+	path = nornir-mongo
 	url = git@github.com:colbyjoines/nornir-mongo.git

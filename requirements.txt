@@ -49,3 +49,5 @@ typing_extensions==4.12.2
 tzdata==2024.1
 urllib3==2.2.2
 yamlordereddictloader==0.4.2
+
+git+ssh://git@github.com/colbyjoines/model-translate.git@main#egg=model-translate
