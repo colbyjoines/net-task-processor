@@ -1,3 +1,3 @@
-[submodule "mongodb_inventory"]
-	path = mongodb_inventory
+[submodule "nornir-mongo/nornir-mongo"]
+	path = nornir-mongo/nornir-mongo
 	url = git@github.com:colbyjoines/nornir-mongo.git
